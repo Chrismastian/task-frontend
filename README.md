@@ -2,6 +2,8 @@
 
 A minimal task-management app. React + Tailwind frontend, Laravel + Sanctum backend.
 
+[![CI](https://github.com/Chrismastian/task-frontend/actions/workflows/ci.yml/badge.svg)](https://github.com/Chrismastian/task-frontend/actions/workflows/ci.yml)
+
 **[▶ Live demo](https://task-frontend-ruddy-five.vercel.app)** · **[Backend API](https://github.com/Chrismastian/task-api)**
 
 ![Login](docs/screenshots/login.png)
@@ -11,9 +13,9 @@ A minimal task-management app. React + Tailwind frontend, Laravel + Sanctum back
 
 | Layer | Tech |
 |-------|------|
-| Framework | React 18 + Vite |
+| Framework | React 19 + Vite |
 | Styling | Tailwind CSS v4 |
-| Routing | React Router |
+| Routing | React Router 7 |
 | HTTP | Axios (with auth + 401 interceptors) |
 | Backend | Laravel 10 + Sanctum (separate repo) |
 
