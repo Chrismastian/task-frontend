@@ -2,7 +2,7 @@
 
 A minimal task-management app. React + Tailwind frontend, Laravel + Sanctum backend.
 
-**[Backend API](https://github.com/Chrismastian/task-api)**
+**[▶ Live demo](https://task-frontend-ruddy-five.vercel.app)** · **[Backend API](https://github.com/Chrismastian/task-api)**
 
 ## Stack
 
